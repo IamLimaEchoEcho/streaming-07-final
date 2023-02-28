@@ -18,8 +18,4 @@ Send/receive transactional file and send alerts on low balance or overdraw.
 
 
 # Screenshot1: 
-[![Screenshot 1](https://github.com/IamLimaEchoEcho/streaming-05-creating-a-producer/blob/main/Picture1.png "Lee Jones")
-# Screenshot2: 
-[![Screenshot 2](https://github.com/IamLimaEchoEcho/streaming-05-creating-a-producer/blob/main/Picture2.png "Lee Jones")
-# Screenshot3: 
-[![Screenshot 3](https://github.com/IamLimaEchoEcho/streaming-05-creating-a-producer/blob/main/Picture3.png "Lee Jones")
+[![Screenshot 1](https://github.com/IamLimaEchoEcho/streaming-07-final/blob/main/Picture1.png "Lee Jones")
